@@ -4,7 +4,7 @@
 
 🌱 Aprendiendo HTML5, CSS3 y Javascript de manera autodidacta.
 
-⚡ Tengo un humilde portfolio que pueden visitar en https://estebanchavez27.github.io/MiPortafolio/
+⚡ Tengo un humilde portfolio que pueden visitar en https://estebanchavez.dev.ar
 
 <!--
 **EstebanChavez27/EstebanChavez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
