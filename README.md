@@ -1,6 +1,6 @@
 ### ¡Hola, soy Esteban! 👋
 
-💬 Soy un profesor de música 🎼 que está dando sus primeros pasos como **Front-End Dev** 💻.
+💬 Soy un profesor de música 🎼 convertido en **Front-End Dev** 💻.
 
 🌱 Aprendiendo HTML5, CSS3 y Javascript de manera autodidacta.
 
